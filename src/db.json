@@ -1,0 +1,23 @@
+{
+  "itens": [
+    {
+        "id": 1,
+        "codigo": 2131,
+        "barra": "210",
+        "empresa": "POSTO IPIRANGA",
+        "preco3": 100
+      },
+    {
+      "id": 2,
+      "codigo": 123,
+      "barra": "9970",
+      "empresa": "MERCADO LIMA",
+      "preco3": 90
+    }
+  ],
+  "posicao": [
+    {
+      "posicao": 3
+    }
+  ]
+}
